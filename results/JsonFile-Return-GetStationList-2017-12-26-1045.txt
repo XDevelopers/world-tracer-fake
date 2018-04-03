@@ -1,0 +1,1 @@
+{"WTR_StationListRS":{"Success":{},"Stations":{"Property":[{"Property":[{"Values":[{"Value":["XWB"]}],"Desc":"TYPE A ACCESS - CRT"},{"Values":[{"Value":["NO CURRENT STATIONS"]}],"Desc":"TYPE B ACCESS - TTY"}],"Desc":"TRAINING WORLDTRACER MANAGEMENT STATIONS FOR USER QD"}]},"Version":0.1}}

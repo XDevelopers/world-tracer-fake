@@ -1,0 +1,2129 @@
+{
+    "WTR_MasterRecordReadRS": {
+        "Success": {},
+        "MasterRecord": {
+            "Options": [
+                        {
+                        "Property": [
+                                     {
+                                     "Value": "AIR CANADA TEST ACCESS --DO NOT CHANGE--",
+                                     "Desc": "AIRLINE"
+                                     },
+                                     {
+                                     "Value": "AC",
+                                     "Desc": "CODE"
+                                     },
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "MEMBERSHIP",
+                                                                       "STATUS",
+                                                                       "BASEFEE",
+                                                                       "MODE",
+                                                                       "CONTRCT",
+                                                                       "TRAINING",
+                                                                       "ACTIVE"
+                                                                       ]
+                                                             }
+                                                             ]
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "SITA",
+                                                                       "A",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       ""
+                                                                       ]
+                                                             }
+                                                             ]
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "TRACING",
+                                                                       "A",
+                                                                       "866",
+                                                                       "CRT",
+                                                                       "",
+                                                                       "",
+                                                                       "07APR93"
+                                                                       ]
+                                                             }
+                                                             ]
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "MANAGEMENT",
+                                                                       "A",
+                                                                       "786",
+                                                                       "CRT",
+                                                                       "",
+                                                                       "",
+                                                                       "09JAN95"
+                                                                       ]
+                                                             },
+                                                             {
+                                                             "Value": [
+                                                                       "CALL CENTER",
+                                                                       "I",
+                                                                       "",
+                                                                       "CRT",
+                                                                       "",
+                                                                       "",
+                                                                       ""
+                                                                       ]
+                                                             },
+                                                             {
+                                                             "Value": [
+                                                                       "LZ HANDLING",
+                                                                       "I",
+                                                                       "",
+                                                                       "CRT",
+                                                                       "",
+                                                                       "",
+                                                                       ""
+                                                                       ]
+                                                             },
+                                                             {
+                                                             "Value": [
+                                                                       "ALLOW NP AHL",
+                                                                       "A",
+                                                                       "",
+                                                                       "CRT",
+                                                                       "25SEP01",
+                                                                       "25SEP01",
+                                                                       "25SEP01"
+                                                                       ]
+                                                             }
+                                                             ]
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "CLAIMS INVST",
+                                                                       "A",
+                                                                       "0",
+                                                                       "CRT",
+                                                                       "",
+                                                                       "",
+                                                                       "02OCT98"
+                                                                       ]
+                                                             }
+                                                             ]
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "BICF",
+                                                                       "A",
+                                                                       "",
+                                                                       "CRT",
+                                                                       "05JUL16",
+                                                                       "05JUL16",
+                                                                       "05JUL16"
+                                                                       ]
+                                                             }
+                                                             ]
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "INTERNET",
+                                                                       "A",
+                                                                       "162",
+                                                                       "CRT",
+                                                                       "",
+                                                                       "",
+                                                                       "15JAN01"
+                                                                       ]
+                                                             }
+                                                             ]
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "EXPANDED AREAS",
+                                                                       "A",
+                                                                       "100",
+                                                                       "CRT",
+                                                                       "",
+                                                                       "",
+                                                                       "09OCT07"
+                                                                       ]
+                                                             }
+                                                             ]
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "DELIVERY SERVICE",
+                                                                       "I",
+                                                                       "",
+                                                                       "CRT",
+                                                                       "",
+                                                                       "",
+                                                                       ""
+                                                                       ]
+                                                             }
+                                                             ]
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "UID SERVICE",
+                                                                       "I",
+                                                                       "",
+                                                                       "CRT",
+                                                                       "",
+                                                                       "",
+                                                                       ""
+                                                                       ]
+                                                             }
+                                                             ]
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "BIR SERVICE",
+                                                                       "A",
+                                                                       "575",
+                                                                       "CRT",
+                                                                       "",
+                                                                       "",
+                                                                       "07MAR17"
+                                                                       ]
+                                                             }
+                                                             ]
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "FLIGHT SCHEDULE",
+                                                                       "I",
+                                                                       "",
+                                                                       "CRT",
+                                                                       "",
+                                                                       "",
+                                                                       ""
+                                                                       ]
+                                                             }
+                                                             ]
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "WORLDTRACER WEB",
+                                                                       "A",
+                                                                       "328",
+                                                                       "CRT",
+                                                                       "",
+                                                                       "",
+                                                                       "09JUL09"
+                                                                       ]
+                                                             },
+                                                             {
+                                                             "Value": [
+                                                                       "GUI",
+                                                                       "I",
+                                                                       "",
+                                                                       "CRT",
+                                                                       "",
+                                                                       "",
+                                                                       "09JUL09"
+                                                                       ]
+                                                             },
+                                                             {
+                                                             "Value": [
+                                                                       "KIOSK",
+                                                                       "I",
+                                                                       "",
+                                                                       "CRT",
+                                                                       "",
+                                                                       "",
+                                                                       ""
+                                                                       ]
+                                                             },
+                                                             {
+                                                             "Value": [
+                                                                       "MOBILE",
+                                                                       "I",
+                                                                       "",
+                                                                       "CRT",
+                                                                       "",
+                                                                       "",
+                                                                       ""
+                                                                       ]
+                                                             },
+                                                             {
+                                                             "Value": [
+                                                                       "SELF SERVICE",
+                                                                       "I",
+                                                                       "",
+                                                                       "CRT",
+                                                                       "",
+                                                                       "",
+                                                                       ""
+                                                                       ]
+                                                             }
+                                                             ]
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "STAGING ACCESS",
+                                                                       "I",
+                                                                       "",
+                                                                       "CRT",
+                                                                       "",
+                                                                       "",
+                                                                       ""
+                                                                       ]
+                                                             }
+                                                             ]
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "WEB SERVICES",
+                                                                       "A",
+                                                                       "804",
+                                                                       "CRT",
+                                                                       "",
+                                                                       "",
+                                                                       "14FEB13"
+                                                                       ]
+                                                             }
+                                                             ]
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "TABLET",
+                                                                       "A",
+                                                                       "0",
+                                                                       "CRT",
+                                                                       "",
+                                                                       "",
+                                                                       "14MAY16"
+                                                                       ]
+                                                             },
+                                                             {
+                                                             "Value": [
+                                                                       "BAND",
+                                                                       "A",
+                                                                       "",
+                                                                       "GOLD",
+                                                                       "",
+                                                                       "",
+                                                                       ""
+                                                                       ]
+                                                             },
+                                                             {
+                                                             "Value": [
+                                                                       "# OF DEVICES",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       ""
+                                                                       ]
+                                                             }
+                                                             ]
+                                                  }
+                                                  ]
+                                     },
+                                     {
+                                     "Value": "22OCT17",
+                                     "Desc": "WEB SERVICES CERTIFICATE WILL EXPIRE ON"
+                                     },
+                                     {
+                                     "Value": "45  DAYS",
+                                     "Desc": "WORLDTRACER DURATION"
+                                     },
+                                     {
+                                     "Value": "CRT",
+                                     "Desc": "TRACING MODE"
+                                     },
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Value": "Y",
+                                                  "Desc": "HOST"
+                                                  },
+                                                  {
+                                                  "Value": "N",
+                                                  "Desc": "GAB"
+                                                  },
+                                                  {
+                                                  "Value": "N",
+                                                  "Desc": "DIRECT"
+                                                  }
+                                                  ],
+                                     "Desc": "ACCESS"
+                                     },
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Value": "21",
+                                                  "Desc": "LINES"
+                                                  },
+                                                  {
+                                                  "Value": "64",
+                                                  "Desc": "CHARACTERS/LINE"
+                                                  }
+                                                  ],
+                                     "Desc": "CRT SIZE"
+                                     },
+                                     {
+                                     "Value": "QIK09AC",
+                                     "Desc": "DOWNTIME TTY ADDRESS"
+                                     }
+                                     ],
+                        "Desc": "SYSTEM USAGE",
+                        "UpdateDate": 1495576800000
+                        },
+                        {
+                        "Property": [
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Value": "5  DAYS",
+                                                  "Desc": "STN DURATION"
+                                                  },
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "HDQAC",
+                                                               "Desc": "ACTION FILE"
+                                                               },
+                                                               {
+                                                               "Value": "QIK09AC",
+                                                               "Desc": "TX"
+                                                               }
+                                                               ],
+                                                  "Desc": "ALL MSGS GO TO"
+                                                  }
+                                                  ]
+                                     },
+                                     {
+                                     "Value": "Y",
+                                     "Desc": "HDQ ACTION FILE MENU DISPLAY IN EM"
+                                     },
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Value": "ANDYHDQ",
+                                                  "Desc": "LZ"
+                                                  },
+                                                  {
+                                                  "Value": "DDDBTAC",
+                                                  "Desc": "HQ"
+                                                  },
+                                                  {
+                                                  "Value": "BBBBTAC",
+                                                  "Desc": "IN"
+                                                  },
+                                                  {
+                                                  "Value": "CCCBTAC",
+                                                  "Desc": "XX"
+                                                  }
+                                                  ],
+                                     "Desc": "HDQ ACTION FILE TTY ADDRESSES"
+                                     },
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Value": "Y",
+                                                  "Desc": "TO ACTION FILE"
+                                                  },
+                                                  {
+                                                  "Value": "N",
+                                                  "Desc": "TO E-MAIL"
+                                                  }
+                                                  ],
+                                     "Desc": "HDQ ACTION FILE XX MESSAGES"
+                                     },
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Value": "",
+                                                  "Desc": "E-MAIL 1"
+                                                  },
+                                                  {
+                                                  "Value": "",
+                                                  "Desc": "E-MAIL 2"
+                                                  }
+                                                  ],
+                                     "Desc": "EMAIL FOR XX MESSAGES"
+                                     },
+                                     {
+                                     "Value": "Y",
+                                     "Desc": "SPECIAL CHARACTER FOR MASK/DFT"
+                                     },
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Value": "!",
+                                                  "Desc": "SOE"
+                                                  },
+                                                  {
+                                                  "Value": "@",
+                                                  "Desc": "TAB"
+                                                  },
+                                                  {
+                                                  "Value": "\\",
+                                                  "Desc": "AIRLINE"
+                                                  },
+                                                  {
+                                                  "Value": "?",
+                                                  "Desc": "HELP"
+                                                  }
+                                                  ],
+                                     "Desc": "SPECIAL CHARACTER"
+                                     }
+                                     ],
+                        "Desc": "HEADQUARTERS OPTIONS",
+                        "UpdateDate": 1229468400000
+                        },
+                        {
+                        "Property": [
+                                     {
+                                     "Value": "60",
+                                     "Desc": "MINIMUM TRACING MATCH PERCENTAGE SELECTION"
+                                     },
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "70",
+                                                               "Desc": "PCT"
+                                                               },
+                                                               {
+                                                               "Value": "2D",
+                                                               "Desc": "DELAY"
+                                                               }
+                                                               ]
+                                                  },
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "65",
+                                                               "Desc": "PCT"
+                                                               },
+                                                               {
+                                                               "Value": "5D",
+                                                               "Desc": "DELAY"
+                                                               }
+                                                               ]
+                                                  },
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "",
+                                                               "Desc": "PCT"
+                                                               },
+                                                               {
+                                                               "Value": "",
+                                                               "Desc": "DELAY"
+                                                               }
+                                                               ]
+                                                  },
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "",
+                                                               "Desc": "PCT"
+                                                               },
+                                                               {
+                                                               "Value": "",
+                                                               "Desc": "DELAY"
+                                                               }
+                                                               ]
+                                                  },
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "",
+                                                               "Desc": "PCT"
+                                                               },
+                                                               {
+                                                               "Value": "",
+                                                               "Desc": "DELAY"
+                                                               }
+                                                               ]
+                                                  }
+                                                  ],
+                                     "Desc": "DELAY DELIVERY OF MATCHES BELOW PCT INDICATED"
+                                     },
+                                     {
+                                     "Values": [
+                                                {
+                                                "Value": [
+                                                          "TYPE",
+                                                          "ALL COLORS",
+                                                          "SPECIFIC COLOR",
+                                                          "TIME/H-D"
+                                                          ]
+                                                },
+                                                {
+                                                "Value": [
+                                                          "22",
+                                                          "N",
+                                                          "BK",
+                                                          ""
+                                                          ]
+                                                },
+                                                {
+                                                "Value": [
+                                                          "22",
+                                                          "",
+                                                          "GN/BU/GY/RD",
+                                                          ""
+                                                          ]
+                                                },
+                                                {
+                                                "Value": [
+                                                          "25",
+                                                          "N",
+                                                          "BK/BU",
+                                                          ""
+                                                          ]
+                                                }
+                                                ],
+                                     "Desc": "CT/RT/FD AND CT/RT MATCH DELAY"
+                                     },
+                                     {
+                                     "Value": "99",
+                                     "Desc": "EXPANDED ELEMENT MATCH DISPLAY PERCENT"
+                                     },
+                                     {
+                                     "Value": "60",
+                                     "Desc": "OHD MATCH CONTROL WINDOW"
+                                     },
+                                     {
+                                     "Value": "Y",
+                                     "Desc": "SINGLE MATCH AHL AUTO SUSPEND"
+                                     },
+                                     {
+                                     "Value": "N",
+                                     "Desc": "COLOUR TYPE SUSPEND AFTER BDO TRANSACTION"
+                                     },
+                                     {
+                                     "Value": "S",
+                                     "Desc": "MGMT TNT MATCH RESPONSE - AHL"
+                                     },
+                                     {
+                                     "Value": "N",
+                                     "Desc": "POSITIVE REPLY FROM MATCHING"
+                                     },
+                                     {
+                                     "Value": "",
+                                     "Desc": "AUTO TRANSFER FWD FOR NM / TN MATCH - AHL"
+                                     },
+                                     {
+                                     "Value": "60",
+                                     "Desc": "MINIMUM CLAIMS INVESTIGATION MATCH SCORE SELECTION"
+                                     },
+                                     {
+                                     "Value": "100",
+                                     "Desc": "MINIMUM CLAIMS INVESTIGATION CLAIM AMOUNT"
+                                     },
+                                     {
+                                     "Value": "Y",
+                                     "Desc": "CONFIRM FILES TO CLAIMS VIA AUTOFEED"
+                                     },
+                                     {
+                                     "Value": "N",
+                                     "Desc": "CONTINUE TN MATCHING AFTER AHL SUSPEND"
+                                     }
+                                     ],
+                        "Desc": "MATCHING OPTIONS"
+                        },
+                        {
+                        "Property": [
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Value": "Y",
+                                                  "Desc": "TRACING/MANAGEMENT RL/FS OPTION"
+                                                  },
+                                                  {
+                                                  "Value": "",
+                                                  "Desc": "RL"
+                                                  },
+                                                  {
+                                                  "Value": "",
+                                                  "Desc": "FS"
+                                                  }
+                                                  ]
+                                     },
+                                     {
+                                     "Value": "N",
+                                     "Desc": "APPLY RULES FOR USE OF FS/RL ELEMENTS"
+                                     },
+                                     {
+                                     "Value": "1",
+                                     "Desc": "NUMBER OF X ENTRIES ALLOWED IN TNT"
+                                     },
+                                     {
+                                     "Value": "Y",
+                                     "Desc": "RIB TO TTY STATION"
+                                     },
+                                     {
+                                     "Value": "90",
+                                     "Desc": "DELETE FOUND PROPERTY ITEMS AFTER DAYS"
+                                     },
+                                     {
+                                     "Value": "90",
+                                     "Desc": "DELETE LOST PROPERTY ITEMS AFTER DAYS"
+                                     },
+                                     {
+                                     "Value": "5",
+                                     "Desc": "DELETE TRAINING FILES AFTER DAYS"
+                                     },
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "QIK09AC",
+                                                                       "",
+                                                                       ""
+                                                                       ]
+                                                             }
+                                                             ],
+                                                  "Desc": "SPECIAL DATA FEED ADDRESS"
+                                                  },
+                                                  {
+                                                  "Value": "Y",
+                                                  "Desc": "FULL STOP"
+                                                  },
+                                                  {
+                                                  "Value": "N",
+                                                  "Desc": "ARNK"
+                                                  }
+                                                  ]
+                                     },
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "DRY",
+                                                                       "BAG",
+                                                                       "RTI",
+                                                                       "CLM",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       ""
+                                                                       ]
+                                                             }
+                                                             ],
+                                                  "Desc": "AHL"
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       ""
+                                                                       ]
+                                                             }
+                                                             ],
+                                                  "Desc": "OHD"
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       ""
+                                                                       ]
+                                                             }
+                                                             ],
+                                                  "Desc": "DPR"
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "ALL",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       ""
+                                                                       ]
+                                                             }
+                                                             ],
+                                                  "Desc": "FWD"
+                                                  }
+                                                  ],
+                                     "Desc": "DATA FEED PARAMETERS FILE TYPES AREAS SENT IN MESSAGE"
+                                     },
+                                     {
+                                     "Values": [
+                                                {
+                                                "Value": [
+                                                          "YULSSAC",
+                                                          "",
+                                                          ""
+                                                          ]
+                                                }
+                                                ],
+                                     "Desc": "BIR TYPE X ADDRESS"
+                                     },
+                                     {
+                                     "Value": "N",
+                                     "Desc": "MANAGEMENT AHL INPUT RESPONSE IS ADI"
+                                     },
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Value": "NO",
+                                                  "Desc": "AHL"
+                                                  },
+                                                  {
+                                                  "Value": "NO",
+                                                  "Desc": "DPR"
+                                                  },
+                                                  {
+                                                  "Value": "NO",
+                                                  "Desc": "OHD"
+                                                  },
+                                                  {
+                                                  "Value": "NO",
+                                                  "Desc": "AFE"
+                                                  },
+                                                  {
+                                                  "Value": "SAH/AAH",
+                                                  "Desc": "TXF/FWD"
+                                                  },
+                                                  {
+                                                  "Value": "ROH",
+                                                  "Desc": "TXF"
+                                                  },
+                                                  {
+                                                  "Value": "NO",
+                                                  "Desc": "AHL/N"
+                                                  },
+                                                  {
+                                                  "Value": "SAH/AAH",
+                                                  "Desc": "ROH"
+                                                  },
+                                                  {
+                                                  "Value": "NO",
+                                                  "Desc": "BDO"
+                                                  }
+                                                  ],
+                                     "Desc": "MANAGEMENT RESPONSE OPTIONS"
+                                     },
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Value": "N",
+                                                  "Desc": "SHO"
+                                                  },
+                                                  {
+                                                  "Value": "AHL",
+                                                  "Desc": "RECORD TYPE"
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "BL",
+                                                                       "BR",
+                                                                       "CP",
+                                                                       "DB",
+                                                                       "FS",
+                                                                       "LD",
+                                                                       "PN",
+                                                                       "PT",
+                                                                       "RC",
+                                                                       "RL",
+                                                                       "TP",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       ""
+                                                                       ]
+                                                             }
+                                                             ],
+                                                  "Desc": "ELEMENTS"
+                                                  }
+                                                  ],
+                                     "Desc": "SHO - DEFAULT - ADDITIONAL ELEMENTS"
+                                     },
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Value": "N",
+                                                  "Desc": "SHO"
+                                                  },
+                                                  {
+                                                  "Value": "OHD",
+                                                  "Desc": "RECORD TYPE"
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "BP",
+                                                                       "CP",
+                                                                       "SI",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       ""
+                                                                       ]
+                                                             }
+                                                             ],
+                                                  "Desc": "ELEMENTS"
+                                                  }
+                                                  ],
+                                     "Desc": "SHO - DEFAULT - ADDITIONAL ELEMENTS"
+                                     },
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Value": "N",
+                                                  "Desc": "SHO"
+                                                  },
+                                                  {
+                                                  "Value": "DPR",
+                                                  "Desc": "RECORD TYPE"
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "BD",
+                                                                       "CP",
+                                                                       "LP",
+                                                                       "PN",
+                                                                       "PT",
+                                                                       "SI",
+                                                                       "TP",
+                                                                       "ZP",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       "",
+                                                                       ""
+                                                                       ]
+                                                             }
+                                                             ],
+                                                  "Desc": "ELEMENTS"
+                                                  }
+                                                  ],
+                                     "Desc": "SHO - DEFAULT - ADDITIONAL ELEMENTS"
+                                     },
+                                     {
+                                     "Value": "Y",
+                                     "Desc": "INT - ALLOW   - ADDITIONAL ELEMENTS"
+                                     },
+                                     {
+                                     "Values": [
+                                                {
+                                                "Value": [
+                                                          "CP",
+                                                          "CT",
+                                                          "EA",
+                                                          "FD",
+                                                          "IT",
+                                                          "NM",
+                                                          "RT",
+                                                          "BI",
+                                                          "CC",
+                                                          "CL",
+                                                          "CO",
+                                                          "DA",
+                                                          "DV",
+                                                          "FL",
+                                                          "FR",
+                                                          "FX",
+                                                          "LD",
+                                                          "PA",
+                                                          "PN",
+                                                          "TA",
+                                                          "TN",
+                                                          "TP",
+                                                          "ZP",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          ""
+                                                          ]
+                                                }
+                                                ],
+                                     "Desc": "MANDATORY DISPLAY ELEMENTS"
+                                     },
+                                     {
+                                     "Value": "Y",
+                                     "Desc": "INT - ALLOW   - AMEND ELEMENTS"
+                                     },
+                                     {
+                                     "Values": [
+                                                {
+                                                "Value": [
+                                                          "CO",
+                                                          "CP",
+                                                          "DA",
+                                                          "DV",
+                                                          "EA",
+                                                          "LD",
+                                                          "PA",
+                                                          "PN",
+                                                          "ST",
+                                                          "TA",
+                                                          "TC",
+                                                          "TP",
+                                                          "TS",
+                                                          "TZ",
+                                                          "ZP",
+                                                          "YP",
+                                                          "YT",
+                                                          "YD",
+                                                          "CO",
+                                                          "CP",
+                                                          "DA",
+                                                          "DV",
+                                                          "EA",
+                                                          "LD",
+                                                          "PA",
+                                                          "PN",
+                                                          "TA",
+                                                          "TP",
+                                                          "ZP",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          "",
+                                                          ""
+                                                          ]
+                                                }
+                                                ],
+                                     "Desc": "AMEND ELEMENTS"
+                                     },
+                                     {
+                                     "Value": "Y",
+                                     "Desc": "ALLOW DISPLAY"
+                                     },
+                                     {
+                                     "Value": "Y",
+                                     "Desc": "PIR DPR OPTIONAL DISPLAY ELEMENTS"
+                                     },
+                                     {
+                                     "Values": [
+                                                {
+                                                "Value": [
+                                                          "BD",
+                                                          "CD",
+                                                          "LP",
+                                                          "TD"
+                                                          ]
+                                                }
+                                                ],
+                                     "Desc": "ELEMENTS"
+                                     }
+                                     ],
+                        "Desc": "SYSTEM OPTIONS",
+                        "UpdateDate": 1488841200000
+                        },
+                        {
+                        "Property": [
+                                     {
+                                     "Value": "N",
+                                     "Desc": "ARINC PARTICIPANT"
+                                     },
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Value": "",
+                                                  "Desc": "TTY ADDRESS"
+                                                  },
+                                                  {
+                                                  "Value": "N",
+                                                  "Desc": "PAX INTERNET PROMPT"
+                                                  },
+                                                  {
+                                                  "Value": "Y",
+                                                  "Desc": "EMAIL"
+                                                  },
+                                                  {
+                                                  "Value": "Y",
+                                                  "Desc": "PHONE NUMBER"
+                                                  },
+                                                  {
+                                                  "Value": "Y",
+                                                  "Desc": "ACTION FILE"
+                                                  },
+                                                  {
+                                                  "Value": "Y",
+                                                  "Desc": "BAG SUS STATUS"
+                                                  },
+                                                  {
+                                                  "Value": "N",
+                                                  "Desc": "FWD DISPLAY"
+                                                  },
+                                                  {
+                                                  "Value": "Y",
+                                                  "Desc": "REPLY TO PAX"
+                                                  },
+                                                  {
+                                                  "Value": "N",
+                                                  "Desc": "FAH STATUS"
+                                                  },
+                                                  {
+                                                  "Value": "N",
+                                                  "Desc": "FAH LINK"
+                                                  },
+                                                  {
+                                                  "Value": "N",
+                                                  "Desc": "FOH STATUS"
+                                                  },
+                                                  {
+                                                  "Value": "N",
+                                                  "Desc": "FOH LINK"
+                                                  },
+                                                  {
+                                                  "Value": "Y",
+                                                  "Desc": "DLV DISPLAY"
+                                                  }
+                                                  ],
+                                     "Desc": "INTERNET OPTIONS"
+                                     },
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "N",
+                                                               "Desc": "DISPLAY STATUS"
+                                                               },
+                                                               {
+                                                               "Value": "",
+                                                               "Desc": "DAYS FROM DATE OF CLOSURE"
+                                                               }
+                                                               ],
+                                                  "Desc": "CLOSED FILE"
+                                                  },
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "Y",
+                                                               "Desc": "DISPLAY STATUS"
+                                                               },
+                                                               {
+                                                               "Value": "75",
+                                                               "Desc": "DAYS AFTER DATE OF CREATION"
+                                                               }
+                                                               ],
+                                                  "Desc": "OPEN FILE"
+                                                  }
+                                                  ],
+                                     "Desc": "REMOVE AHL FILE FROM DISPLAY"
+                                     },
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Value": "N",
+                                                  "Desc": "OPTION 1 - DO NOT DISPLAY FILE - RETURN DN MESSAGE"
+                                                  },
+                                                  {
+                                                  "Value": "N",
+                                                  "Desc": "OPTION 2 - DISPLAY FILE WITH DN MESSAGE"
+                                                  }
+                                                  ],
+                                     "Desc": "DN ELEMENT"
+                                     },
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "Y",
+                                                               "Desc": "ENABLED"
+                                                               },
+                                                               {
+                                                               "Value": "EN",
+                                                               "Desc": "LANGUAGE"
+                                                               }
+                                                               ],
+                                                  "Desc": "DEFAULT LANGUAGE FOR AUTO SMS/SEA"
+                                                  },
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "Y",
+                                                               "Desc": "ALLOW AUTOMATED SMS MESSAGE TO ALL CUSTOMERS"
+                                                               },
+                                                               {
+                                                               "Value": "N",
+                                                               "Desc": "ALLOW AUTOMATED SMS MESSAGE TO PREMIUM CUSTOMERS ONLY"
+                                                               }
+                                                               ],
+                                                  "Desc": "DEFAULT LANGUAGE FOR AUTO SMS/SEA"
+                                                  },
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "Y",
+                                                               "Desc": "ALLOW AUTOMATED SEA MESSAGE TO ALL CUSTOMERS"
+                                                               },
+                                                               {
+                                                               "Value": "N",
+                                                               "Desc": "ALLOW AUTOMATED SEA MESSAGE TO PREMIUM CUSTOMERS ONLY"
+                                                               }
+                                                               ],
+                                                  "Desc": "DEFAULT LANGUAGE FOR AUTO SMS/SEA"
+                                                  }
+                                                  ]
+                                     }
+                                     ],
+                        "Desc": "COMMUNICATIONS",
+                        "UpdateDate": 1467237600000
+                        },
+                        {
+                        "Property": [
+                                     {
+                                     "Value": "S",
+                                     "Desc": "RETIRED FOUND PROPERTY SENT TO LZ"
+                                     },
+                                     {
+                                     "Value": "S",
+                                     "Desc": "RETIRED LOST PROPERTY SENT TO LZ"
+                                     },
+                                     {
+                                     "Values": [
+                                                {
+                                                "Value": [
+                                                          "S",
+                                                          "",
+                                                          ""
+                                                          ]
+                                                }
+                                                ],
+                                     "Desc": "PAX INPUT PROMPT SENT TO"
+                                     }
+                                     ],
+                        "Desc": "INTERFACE SYSTEMS",
+                        "UpdateDate": 1466373600000
+                        },
+                        {
+                        "Property": [
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "BL",
+                                                                       "PS"
+                                                                       ]
+                                                             }
+                                                             ],
+                                                  "Desc": "AHL"
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "BI",
+                                                                       "FS",
+                                                                       "PA",
+                                                                       "PS"
+                                                                       ]
+                                                             }
+                                                             ],
+                                                  "Desc": "DPR"
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "RC"
+                                                                       ]
+                                                             }
+                                                             ],
+                                                  "Desc": "CDP"
+                                                  },
+                                                  {
+                                                  "Values": [
+                                                             {
+                                                             "Value": [
+                                                                       "DA",
+                                                                       "DD",
+                                                                       "DR",
+                                                                       "RC"
+                                                                       ]
+                                                             }
+                                                             ],
+                                                  "Desc": "CAH"
+                                                  }
+                                                  ],
+                                     "Desc": "TRANSACTIONS AND ELEMENTS"
+                                     },
+                                     {
+                                     "Value": "N",
+                                     "Desc": "HC Y MANDATORY IN FWD"
+                                     },
+                                     {
+                                     "Value": "Y",
+                                     "Desc": "DV MANDATORY WITH TA"
+                                     },
+                                     {
+                                     "Values": [
+                                                {
+                                                "Value": [
+                                                          "ALL"
+                                                          ]
+                                                }
+                                                ],
+                                     "Desc": "AG MANDATORY"
+                                     }
+                                     ],
+                        "Desc": "MANDATORY ELEMENTS",
+                        "UpdateDate": 1504735200000
+                        },
+                        {
+                        "Property": [
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Values": [
+                                                                          {
+                                                                          "Value": [
+                                                                                    "ERR"
+                                                                                    ]
+                                                                          }
+                                                                          ],
+                                                               "Desc": "REPORTS"
+                                                               },
+                                                               {
+                                                               "Value": "QU",
+                                                               "Desc": "PRI"
+                                                               },
+                                                               {
+                                                               "Value": "STN",
+                                                               "Desc": "STN/SUM"
+                                                               },
+                                                               {
+                                                               "Values": [
+                                                                          {
+                                                                          "Value": [
+                                                                                    "QIK09AC"
+                                                                                    ]
+                                                                          }
+                                                                          ],
+                                                               "Desc": "ADDRESS"
+                                                               },
+                                                               {
+                                                               "Value": "",
+                                                               "Desc": "P/X"
+                                                               }
+                                                               ],
+                                                  "Desc": "REPORT AND FILE INFORMATION"
+                                                  },
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Values": [
+                                                                          {
+                                                                          "Value": [
+                                                                                    "MCR",
+                                                                                    "MRI",
+                                                                                    "WCR"
+                                                                                    ]
+                                                                          }
+                                                                          ],
+                                                               "Desc": "REPORTS"
+                                                               },
+                                                               {
+                                                               "Value": "QD",
+                                                               "Desc": "PRI"
+                                                               },
+                                                               {
+                                                               "Value": "STN",
+                                                               "Desc": "STN/SUM"
+                                                               },
+                                                               {
+                                                               "Values": [
+                                                                          {
+                                                                          "Value": [
+                                                                                    "QIK09AC"
+                                                                                    ]
+                                                                          }
+                                                                          ],
+                                                               "Desc": "ADDRESS"
+                                                               },
+                                                               {
+                                                               "Value": "",
+                                                               "Desc": "P/X"
+                                                               }
+                                                               ],
+                                                  "Desc": "REPORT AND FILE INFORMATION"
+                                                  }
+                                                  ],
+                                     "Desc": "REPORTS"
+                                     },
+                                     {
+                                     "Value": "QN",
+                                     "Desc": "DEMAND REPORTS TX PRIORITY"
+                                     },
+                                     {
+                                     "Value": "1",
+                                     "Desc": "AT GMT TIME"
+                                     }
+                                     ],
+                        "Desc": "REPORTS/FILE ADDRESSING",
+                        "UpdateDate": 1172790000000
+                        },
+                        {
+                        "Property": [
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "ACAC",
+                                                               "Desc": "PASSWORD"
+                                                               },
+                                                               {
+                                                               "Values": [
+                                                                          {
+                                                                          "Value": [
+                                                                                    "ALL"
+                                                                                    ]
+                                                                          }
+                                                                          ],
+                                                               "Desc": "TRANSACTIONS"
+                                                               }
+                                                               ],
+                                                  "Desc": "PASSWORD AND TRANSACTION INFORMATION"
+                                                  },
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "LZAC",
+                                                               "Desc": "PASSWORD"
+                                                               },
+                                                               {
+                                                               "Values": [
+                                                                          {
+                                                                          "Value": [
+                                                                                    "XTR",
+                                                                                    "AXF",
+                                                                                    "FRM",
+                                                                                    "EHF",
+                                                                                    "DHF",
+                                                                                    "CST"
+                                                                                    ]
+                                                                          }
+                                                                          ],
+                                                               "Desc": "TRANSACTIONS"
+                                                               }
+                                                               ],
+                                                  "Desc": "PASSWORD AND TRANSACTION INFORMATION"
+                                                  },
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "PALO",
+                                                               "Desc": "PASSWORD"
+                                                               },
+                                                               {
+                                                               "Values": [
+                                                                          {
+                                                                          "Value": [
+                                                                                    "DMR",
+                                                                                    "DPC",
+                                                                                    "DSE",
+                                                                                    "DSM",
+                                                                                    "DSR",
+                                                                                    "DSS",
+                                                                                    "CRM",
+                                                                                    "CFT",
+                                                                                    "EHF",
+                                                                                    "DHF",
+                                                                                    "GPR",
+                                                                                    "AXF",
+                                                                                    "CSP",
+                                                                                    "EFP"
+                                                                                    ]
+                                                                          }
+                                                                          ],
+                                                               "Desc": "TRANSACTIONS"
+                                                               }
+                                                               ],
+                                                  "Desc": "PASSWORD AND TRANSACTION INFORMATION"
+                                                  },
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "COST",
+                                                               "Desc": "PASSWORD"
+                                                               },
+                                                               {
+                                                               "Values": [
+                                                                          {
+                                                                          "Value": [
+                                                                                    "MCR",
+                                                                                    "WCR"
+                                                                                    ]
+                                                                          }
+                                                                          ],
+                                                               "Desc": "TRANSACTIONS"
+                                                               }
+                                                               ],
+                                                  "Desc": "PASSWORD AND TRANSACTION INFORMATION"
+                                                  }
+                                                  ],
+                                     "Desc": "PASSWORDS AND TRANSACTIONS"
+                                     },
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "LZAC",
+                                                               "Desc": "PASSWORD"
+                                                               },
+                                                               {
+                                                               "Value": "AAH",
+                                                               "Desc": "FILE"
+                                                               },
+                                                               {
+                                                               "Values": [
+                                                                          {
+                                                                          "Value": [
+                                                                                    "LZ",
+                                                                                    "NM",
+                                                                                    "TN"
+                                                                                    ]
+                                                                          }
+                                                                          ],
+                                                               "Desc": "ELEMENTS"
+                                                               }
+                                                               ],
+                                                  "Desc": "PASSWORD FILE INFORMATION"
+                                                  },
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "OPCT",
+                                                               "Desc": "PASSWORD"
+                                                               },
+                                                               {
+                                                               "Value": "AAH",
+                                                               "Desc": "FILE"
+                                                               },
+                                                               {
+                                                               "Values": [
+                                                                          {
+                                                                          "Value": [
+                                                                                    "FS",
+                                                                                    "RL"
+                                                                                    ]
+                                                                          }
+                                                                          ],
+                                                               "Desc": "ELEMENTS"
+                                                               }
+                                                               ],
+                                                  "Desc": "PASSWORD FILE INFORMATION"
+                                                  },
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "LZAC",
+                                                               "Desc": "PASSWORD"
+                                                               },
+                                                               {
+                                                               "Value": "AOH",
+                                                               "Desc": "FILE"
+                                                               },
+                                                               {
+                                                               "Values": [
+                                                                          {
+                                                                          "Value": [
+                                                                                    "LZ",
+                                                                                    "NM",
+                                                                                    "TN"
+                                                                                    ]
+                                                                          }
+                                                                          ],
+                                                               "Desc": "ELEMENTS"
+                                                               }
+                                                               ],
+                                                  "Desc": "PASSWORD FILE INFORMATION"
+                                                  },
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "LZAC",
+                                                               "Desc": "PASSWORD"
+                                                               },
+                                                               {
+                                                               "Value": "DLL",
+                                                               "Desc": "FILE"
+                                                               },
+                                                               {
+                                                               "Values": [
+                                                                          {
+                                                                          "Value": [
+                                                                                    "CF"
+                                                                                    ]
+                                                                          }
+                                                                          ],
+                                                               "Desc": "ELEMENTS"
+                                                               }
+                                                               ],
+                                                  "Desc": "PASSWORD FILE INFORMATION"
+                                                  },
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "NMTN",
+                                                               "Desc": "PASSWORD"
+                                                               },
+                                                               {
+                                                               "Value": "AOH",
+                                                               "Desc": "FILE"
+                                                               },
+                                                               {
+                                                               "Values": [
+                                                                          {
+                                                                          "Value": [
+                                                                                    "NM",
+                                                                                    "TN",
+                                                                                    "XT"
+                                                                                    ]
+                                                                          }
+                                                                          ],
+                                                               "Desc": "ELEMENTS"
+                                                               }
+                                                               ],
+                                                  "Desc": "PASSWORD FILE INFORMATION"
+                                                  },
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "NMTN",
+                                                               "Desc": "PASSWORD"
+                                                               },
+                                                               {
+                                                               "Value": "ADP",
+                                                               "Desc": "FILE"
+                                                               },
+                                                               {
+                                                               "Values": [
+                                                                          {
+                                                                          "Value": [
+                                                                                    "NM"
+                                                                                    ]
+                                                                          }
+                                                                          ],
+                                                               "Desc": "ELEMENTS"
+                                                               }
+                                                               ],
+                                                  "Desc": "PASSWORD FILE INFORMATION"
+                                                  },
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "LZAC",
+                                                               "Desc": "PASSWORD"
+                                                               },
+                                                               {
+                                                               "Value": "ADP",
+                                                               "Desc": "FILE"
+                                                               },
+                                                               {
+                                                               "Values": [
+                                                                          {
+                                                                          "Value": [
+                                                                                    "LZ",
+                                                                                    "NM"
+                                                                                    ]
+                                                                          }
+                                                                          ],
+                                                               "Desc": "ELEMENTS"
+                                                               }
+                                                               ],
+                                                  "Desc": "PASSWORD FILE INFORMATION"
+                                                  },
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "NMTN",
+                                                               "Desc": "PASSWORD"
+                                                               },
+                                                               {
+                                                               "Value": "AAH",
+                                                               "Desc": "FILE"
+                                                               },
+                                                               {
+                                                               "Values": [
+                                                                          {
+                                                                          "Value": [
+                                                                                    "NM",
+                                                                                    "TN"
+                                                                                    ]
+                                                                          }
+                                                                          ],
+                                                               "Desc": "ELEMENTS"
+                                                               }
+                                                               ],
+                                                  "Desc": "PASSWORD FILE INFORMATION"
+                                                  }
+                                                  ],
+                                     "Desc": "PASSWORDS FILES AND ELEMENTS"
+                                     }
+                                     ],
+                        "Desc": "SECURITY PASSWORDS AIRLINE",
+                        "UpdateDate": 1481497200000
+                        },
+                        {
+                        "Property": [
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Value": "N",
+                                                  "Desc": "PRE-RETIREMENT NOTIFICATION DELAY -DAYS-"
+                                                  },
+                                                  {
+                                                  "Value": "N",
+                                                  "Desc": "PURGED RETIRED NOTIFICATION"
+                                                  },
+                                                  {
+                                                  "Value": "N",
+                                                  "Desc": "COPY OF RIR TO FILE REFERENCE STATION"
+                                                  }
+                                                  ],
+                                     "Desc": "SYSTEM PROMPTS"
+                                     },
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Property": [
+                                                                            {
+                                                                            "Value": "AHL",
+                                                                            "Desc": "TRANSACTION"
+                                                                            },
+                                                                            {
+                                                                            "Value": "S",
+                                                                            "Desc": "OFFICE CODE"
+                                                                            },
+                                                                            {
+                                                                            "Value": "7",
+                                                                            "Desc": "PROMPT"
+                                                                            },
+                                                                            {
+                                                                            "Value": "5",
+                                                                            "Desc": "TIME"
+                                                                            },
+                                                                            {
+                                                                            "Value": "D",
+                                                                            "Desc": "HOURS OR DAYS"
+                                                                            },
+                                                                            {
+                                                                            "Value": "1",
+                                                                            "Desc": "LOCATION"
+                                                                            }
+                                                                            ],
+                                                               "Desc": "MEMBER SELECTED PROMPT"
+                                                               },
+                                                               {
+                                                               "Property": [
+                                                                            {
+                                                                            "Value": "OHD",
+                                                                            "Desc": "TRANSACTION"
+                                                                            },
+                                                                            {
+                                                                            "Value": "H",
+                                                                            "Desc": "OFFICE CODE"
+                                                                            },
+                                                                            {
+                                                                            "Value": "28",
+                                                                            "Desc": "PROMPT"
+                                                                            },
+                                                                            {
+                                                                            "Value": "6",
+                                                                            "Desc": "TIME"
+                                                                            },
+                                                                            {
+                                                                            "Value": "H",
+                                                                            "Desc": "HOURS OR DAYS"
+                                                                            },
+                                                                            {
+                                                                            "Value": "1",
+                                                                            "Desc": "LOCATION"
+                                                                            }
+                                                                            ],
+                                                               "Desc": "MEMBER SELECTED PROMPT"
+                                                               },
+                                                               {
+                                                               "Property": [
+                                                                            {
+                                                                            "Value": "OHD",
+                                                                            "Desc": "TRANSACTION"
+                                                                            },
+                                                                            {
+                                                                            "Value": "S",
+                                                                            "Desc": "OFFICE CODE"
+                                                                            },
+                                                                            {
+                                                                            "Value": "2",
+                                                                            "Desc": "PROMPT"
+                                                                            },
+                                                                            {
+                                                                            "Value": "2",
+                                                                            "Desc": "TIME"
+                                                                            },
+                                                                            {
+                                                                            "Value": "H",
+                                                                            "Desc": "HOURS OR DAYS"
+                                                                            },
+                                                                            {
+                                                                            "Value": "1",
+                                                                            "Desc": "LOCATION"
+                                                                            }
+                                                                            ],
+                                                               "Desc": "MEMBER SELECTED PROMPT"
+                                                               },
+                                                               {
+                                                               "Property": [
+                                                                            {
+                                                                            "Value": "OHD",
+                                                                            "Desc": "TRANSACTION"
+                                                                            },
+                                                                            {
+                                                                            "Value": "S",
+                                                                            "Desc": "OFFICE CODE"
+                                                                            },
+                                                                            {
+                                                                            "Value": "33",
+                                                                            "Desc": "PROMPT"
+                                                                            },
+                                                                            {
+                                                                            "Value": "1",
+                                                                            "Desc": "TIME"
+                                                                            },
+                                                                            {
+                                                                            "Value": "H",
+                                                                            "Desc": "HOURS OR DAYS"
+                                                                            },
+                                                                            {
+                                                                            "Value": "1",
+                                                                            "Desc": "LOCATION"
+                                                                            }
+                                                                            ],
+                                                               "Desc": "MEMBER SELECTED PROMPT"
+                                                               },
+                                                               {
+                                                               "Property": [
+                                                                            {
+                                                                            "Value": "SUS",
+                                                                            "Desc": "TRANSACTION"
+                                                                            },
+                                                                            {
+                                                                            "Value": "D",
+                                                                            "Desc": "OFFICE CODE"
+                                                                            },
+                                                                            {
+                                                                            "Value": "32",
+                                                                            "Desc": "PROMPT"
+                                                                            },
+                                                                            {
+                                                                            "Value": "2",
+                                                                            "Desc": "TIME"
+                                                                            },
+                                                                            {
+                                                                            "Value": "D",
+                                                                            "Desc": "HOURS OR DAYS"
+                                                                            },
+                                                                            {
+                                                                            "Value": "1",
+                                                                            "Desc": "LOCATION"
+                                                                            }
+                                                                            ],
+                                                               "Desc": "MEMBER SELECTED PROMPT"
+                                                               }
+                                                               ],
+                                                  "Desc": "MEMBER SELECTED PROMPTS"
+                                                  },
+                                                  {
+                                                  "Value": "N",
+                                                  "Desc": "EXPANDED ACTION FILES"
+                                                  },
+                                                  {
+                                                  "Value": "N",
+                                                  "Desc": "EXPANDED ACTION FILES TRAINING ONLY"
+                                                  },
+                                                  {
+                                                  "Value": "1",
+                                                  "Desc": "MAX SP AREAS"
+                                                  },
+                                                  {
+                                                  "Value": "1",
+                                                  "Desc": "MAX AP AREAS"
+                                                  },
+                                                  {
+                                                  "Value": "2",
+                                                  "Desc": "MAX EM AREAS"
+                                                  },
+                                                  {
+                                                  "Value": "B",
+                                                  "Desc": "MAX EM ROTARY"
+                                                  }
+                                                  ],
+                                     "Desc": "USER SELECTED PROMPTS"
+                                     }
+                                     ],
+                        "Desc": "PROMPTS",
+                        "UpdateDate": 1466373600000
+                        },
+                        {
+                        "Property": [
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "AC TEST",
+                                                               "Desc": "NAME"
+                                                               },
+                                                               {
+                                                               "Value": "",
+                                                               "Desc": "ACTION FILE"
+                                                               },
+                                                               {
+                                                               "Value": "",
+                                                               "Desc": "TELEX ADDRESS"
+                                                               },
+                                                               {
+                                                               "Value": "",
+                                                               "Desc": "PHONE NUMBER"
+                                                               },
+                                                               {
+                                                               "Value": "",
+                                                               "Desc": "FAX NUMBER"
+                                                               },
+                                                               {
+                                                               "Values": [
+                                                                          {
+                                                                          "Value": [
+                                                                                    ""
+                                                                                    ]
+                                                                          }
+                                                                          ],
+                                                               "Desc": "POSTAL ADDRESS"
+                                                               },
+                                                               {
+                                                               "Values": [
+                                                                          {
+                                                                          "Value": [
+                                                                                    "",
+                                                                                    ""
+                                                                                    ]
+                                                                          }
+                                                                          ],
+                                                               "Desc": "EMAIL"
+                                                               }
+                                                               ],
+                                                  "Desc": "USER BAGGAGE COORDINATOR"
+                                                  }
+                                                  ],
+                                     "Desc": "USER CONTACT INFORMATION"
+                                     },
+                                     {
+                                     "Property": [
+                                                  {
+                                                  "Property": [
+                                                               {
+                                                               "Value": "",
+                                                               "Desc": "NAME"
+                                                               },
+                                                               {
+                                                               "Value": "",
+                                                               "Desc": "ACTION FILE"
+                                                               },
+                                                               {
+                                                               "Value": "",
+                                                               "Desc": "TELEX ADDRESS"
+                                                               },
+                                                               {
+                                                               "Value": "",
+                                                               "Desc": "PHONE NUMBER"
+                                                               },
+                                                               {
+                                                               "Value": "",
+                                                               "Desc": "FAX NUMBER"
+                                                               },
+                                                               {
+                                                               "Value": "",
+                                                               "Desc": "BACKUP NAME"
+                                                               }
+                                                               ],
+                                                  "Desc": "SITA SUPPORT"
+                                                  }
+                                                  ],
+                                     "Desc": "SITA CONTACT INFORMATION"
+                                     }
+                                     ],
+                        "Desc": "CONTACT INFORMATION",
+                        "UpdateDate": 1438293600000
+                        }
+                        ]
+        },
+        "Version": 0.1
+    }
+}

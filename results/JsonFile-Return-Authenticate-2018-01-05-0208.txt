@@ -1,0 +1,27 @@
+{
+	"status": "success",
+	"hash": "AC_J4aiGO5RTUJeg4pHrqR5uKJAQWab1v1iS0o5nWI4xbU=",
+	"firstName": "Anand",
+	"lastName": "Kumar",
+	"usersStationList": ["AAA", "AMS", "ANC", "ATL", "BAB", "BBB", "BDA", "BIL", "BKV", "BLR", "BNE", "CCC", "DAB", "DDD", "DEL", "EEE", "EOO", "FAY", "FFF", "FRA", "HDQ", "HNL", "LGW", "LHR", "LLC", "MSP", "MUC", "OTP", "PBI", "PDX", "PTP", "RDU", "STT", "TLV", "TRD", "VPS", "XXX", "YEG", "YUL", "YYZ"],
+	"payload": [{
+			"applicationId": "TABLET",
+			"rolesList": [{
+					"roleId": "ADMINISTRATOR-TABLET",
+					"roleInfoList": [{
+							"resourceId": "TABLET_ADMIN",
+							"actionId": "MANAGE_ADMIN"
+						}
+					]
+				}, {
+					"roleId": "AGENT-TABLET",
+					"roleInfoList": [{
+							"resourceId": "TABLET_AGENT",
+							"actionId": "MANAGE_AGENT"
+						}
+					]
+				}
+			]
+		}
+	]
+}
