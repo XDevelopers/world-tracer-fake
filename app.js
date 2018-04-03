@@ -76,7 +76,7 @@ app.get('/baggage/wtr/history/v1.0/tag/:bagTag/flightdate/:flightdate', function
 app.post('/baggage/wtr/v4.0/config/stationsAttributeslocal/8', function (req, res) {
     
     var content = "";
-    findFile(startPath, /CallDssTransaction/i, function(filename){
+    findFile(startPath, /ReturnDssTransaction/i, function(filename){
         content = readFile(filename);       
     });
 
